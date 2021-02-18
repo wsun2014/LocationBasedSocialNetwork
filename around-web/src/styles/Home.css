@@ -1,0 +1,14 @@
+.main-tabs {
+    min-width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.video-block {
+    height: 400px;
+    width:220px;
+}
+
+.topic-radio-group {
+    margin-bottom: 20px;
+}
